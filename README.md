@@ -11,9 +11,9 @@
 
 🎓 B.Tech Computer Science student passionate about building real-world software solutions  
 
-💡 Interested in Web Development, AI, Machine Learning, and Problem Solving  
+💡 Interested in Web Development, Machine Learning, and Problem Solving  
 
-🚀 Currently improving my skills in DSA, MERN Stack, and AI-Based Applications  
+🚀 Currently improving my skills in DSA, Full Stack, and AI-Based Applications  
 
 🌱 I believe in continuous learning, consistency, and growth  
 
@@ -52,7 +52,6 @@
 Machine Learning (Basics) | NLP | Pandas | NumPy | Scikit-learn
 
 ---
-
 ## 💻 Featured Projects
 
 ### 🎯 AI-Based Interview Preparation System  
@@ -69,28 +68,8 @@ Designed and developed a responsive portfolio website to showcase projects, skil
 ## 🏆 Achievements
 
 ✔ Solved 150+ DSA Problems on LeetCode & GeeksforGeeks  
-
-✔ Completed Google Arcade Facilitator Program (50+ Skill Badges)  
-
 ✔ Participated in Hack IITK – IIT Kanpur National Level Hackathon  
-
-✔ Deloitte Australia Data Analytics Job Simulation  
-
-✔ Continuous learner in AI, Cloud, and Full Stack Development  
-
----
-
-## 📜 Certifications
-
-🏅 Full Stack Web Development – Udemy  
-
-🏅 Software Engineering – Saylor Academy  
-
-🏅 AI for Beginners – HP Life  
-
-🏅 Infosys Springboard Certifications  
-
-🏅 Deloitte Data Analytics Job Simulation  
+✔ Continuous learner in Cloud and Full Stack Development  
 
 ---
 
@@ -98,7 +77,7 @@ Designed and developed a responsive portfolio website to showcase projects, skil
 
 🔹 Advanced DSA  
 
-🔹 MERN Stack Development  
+🔹 Full Stack Development  
 
 🔹 System Design Basics  
 
@@ -115,6 +94,10 @@ Designed and developed a responsive portfolio website to showcase projects, skil
 <br><br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pragya145&layout=compact&theme=tokyonight" />
 </p>
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=Pragya145&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+
 
 ---
 
