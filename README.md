@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Pragya Dwivedi</h1>
-<h3 align="center">B.Tech CSE Student | Aspiring Software Developer | Passionate Learner</h3>
-
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=35&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=700&lines=✨+Pragya+Dwivedi+✨;B.Tech+CSE+Student;Aspiring+Software+Developer;Passionate+Learner" alt="Typing SVG" />
+</h1>
 <p align="center">
   <a href="https://github.com/Pragya145">
     <img src="https://komarev.com/ghpvc/?username=Pragya145&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -30,9 +30,9 @@ I am a highly motivated B.Tech Computer Science Engineering student with a stron
   <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
-### 🛠 Tools & Platforms
+### 🛠 Tools ,Platforms & Frameworks
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,Googlecolab" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,Googlecolab," />
 </p>
 
 ---
