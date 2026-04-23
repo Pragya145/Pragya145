@@ -1,138 +1,112 @@
 <h1 align="center">Hi 👋, I'm Pragya Dwivedi</h1>
-<h3 align="center">B.Tech CSE Student | Aspiring Software Developer | AI & Web Development Enthusiast</h3>
+<h3 align="center">B.Tech CSE Student | Aspiring Software Developer | Passionate Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&lines=Computer+Science+Student;Full+Stack+Developer;AI+%26+ML+Enthusiast;Always+Learning+New+Things" />
+  <a href="https://github.com/Pragya145">
+    <img src="https://komarev.com/ghpvc/?username=Pragya145&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  </a>
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
-🎓 B.Tech Computer Science student passionate about building real-world software solutions  
+I am a motivated B.Tech Computer Science student with a strong passion for technology, problem-solving, and continuous learning.  
+I enjoy working on web development, Java programming, and exploring new concepts in software development.  
+My goal is to build impactful projects, strengthen my coding skills, and grow into a confident software engineer.  
+I am also focused on improving my communication skills and becoming fluent in English for better professional growth.  
+I believe in consistency, self-growth, and turning challenges into opportunities for success.
 
-💡 Interested in Web Development, Machine Learning, and Problem Solving  
+---
 
-🚀 Currently improving my skills in DSA, Full Stack, and AI-Based Applications  
+## 📊 GitHub Summary
 
-🌱 I believe in continuous learning, consistency, and growth  
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pragya145&theme=github_dark" />
+</p>
 
-📍 Kanpur, India  
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pragya145&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Pragya145&theme=github_dark&utcOffset=5.5" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pragya145&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pragya145&theme=github_dark" />
+</p>
+
+---
+
+## 🔥 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pragya145&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180em"/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pragya145&theme=tokyonight&hide_border=true" height="180em"/>
+</p>
+
+---
+
+## ⏰ Productivity & Commit Graph
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Pragya145&theme=github_dark&utcOffset=5.5" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pragya145&theme=tokyo-night&hide_border=true" />
+</p>
 
 ---
 
 ## 🚀 Tech Stack
 
-### 💻 Languages  
+### 💻 Languages
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,javascript,sql" />
+  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,javascript,html,css" />
 </p>
 
-### 🎨 Frontend  
+### 🌐 Web Development
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,react" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,bootstrap,tailwind" />
 </p>
 
-### ⚙ Backend  
+### 🛢️ Database
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
-### 🗄 Database  
+### 🛠 Tools & Platforms
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
 </p>
-
-### 🛠 Tools & Platforms  
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
-
-### 🤖 AI / ML  
-Machine Learning (Basics) | NLP | Pandas | NumPy | Scikit-learn
-
----
-## 💻 Featured Projects
-
-### 🎯 AI-Based Interview Preparation System  
-An AI-powered platform using Python, NLP, and LLMs to simulate technical and HR interviews with dynamic question generation.
-
-### 📰 Fake News Detection System  
-Built a machine learning model using NLP techniques to classify news articles as real or fake with high prediction accuracy.
-
-### 🌐 Personal Portfolio Website  
-Designed and developed a responsive portfolio website to showcase projects, skills, and professional journey.
-
----
-
-## 🏆 Achievements
-
-✔ Solved 150+ DSA Problems on LeetCode & GeeksforGeeks  
-✔ Participated in Hack IITK – IIT Kanpur National Level Hackathon  
-✔ Continuous learner in Cloud and Full Stack Development  
 
 ---
 
 ## 🌱 Currently Learning
 
-🔹 Advanced DSA  
-
-🔹 Full Stack Development  
-
-🔹 System Design Basics  
-
-🔹 Placement Preparation for Product-Based Companies  
-
----
-
-## 📊 GitHub Stats
-
-<!-- <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Pragya145&show_icons=true&theme=tokyonight" />
-<br><br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Pragya145&theme=tokyonight" />
-<br><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pragya145&layout=compact&theme=tokyonight" />
-</p>
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=Pragya145&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Pragya145&theme=tokyonight" /> -->
-
-
+- Data Structures and Algorithms  
+- Advanced Java Concepts  
+- Full Stack Web Development  
+- GitHub Profile Optimization  
+- Communication & English Fluency
 
 ---
 
 ## 📫 Connect With Me
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Pragya145&show_icons=true&theme=tokyonight" />
-<br><br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Pragya145&theme=tokyonight" />
-<br><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pragya145&layout=compact&theme=tokyonight" />
-</p>
-
 <p align="left">
-<a href="mailto:pragyadwivedi2312@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/pragya-dwivedi-407932340/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Pragya145">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
-</a>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  
+  <a href="mailto:pragyadwivedi2312@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
 </p>
 
 ---
 
-<h3 align="center">✨ “Consistency beats talent when talent doesn’t stay consistent.” ✨</h3>
-
-<h4 align="center">⭐ Always Learning | Building | Growing ⭐</h4>
+<p align="center">
+✨ Consistency beats motivation. Keep building. Keep growing. ✨
+</p>
