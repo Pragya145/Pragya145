@@ -87,7 +87,7 @@ Designed and developed a responsive portfolio website to showcase projects, skil
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Pragya145&show_icons=true&theme=tokyonight" />
 <br><br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pragya145&theme=tokyonight" />
@@ -97,11 +97,21 @@ Designed and developed a responsive portfolio website to showcase projects, skil
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=Pragya145&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Pragya145&theme=tokyonight" /> -->
+
 
 
 ---
 
 ## 📫 Connect With Me
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Pragya145&show_icons=true&theme=tokyonight" />
+<br><br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Pragya145&theme=tokyonight" />
+<br><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pragya145&layout=compact&theme=tokyonight" />
+</p>
 
 <p align="left">
 <a href="mailto:pragyadwivedi2312@gmail.com">
