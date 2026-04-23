@@ -10,15 +10,40 @@
 ---
 
 ## 👩‍💻 About Me
+I am a highly motivated B.Tech Computer Science Engineering student with a strong foundation in software development, object-oriented programming, data structures, and database management systems. I have a keen interest in building scalable and efficient solutions through Java, web technologies, and problem-solving approaches. Passionate about full-stack development and continuous technical upskilling, I enjoy working on real-world projects that enhance both my analytical and development skills.I aspire to contribute effectively as a software engineer in a growth-oriented organization.
 
-I am a motivated B.Tech Computer Science student with a strong passion for technology, problem-solving, and continuous learning.  
-I enjoy working on web development, Java programming, and exploring new concepts in software development.  
-My goal is to build impactful projects, strengthen my coding skills, and grow into a confident software engineer.  
-I am also focused on improving my communication skills and becoming fluent in English for better professional growth.  
-I believe in consistency, self-growth, and turning challenges into opportunities for success.
+---
+## 🚀 Tech Stack
+
+### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,c,javascript,html,css" />
+</p>
+
+### 🌐 Web Development
+<p>
+  <img src="https://skillicons.dev/icons?i=react,expressjs,nodejs,bootstrap,tailwind" />
+</p>
+
+### 🛢️ Database
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+### 🛠 Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,Googlecolab" />
+</p>
 
 ---
 
+## 🌱 Currently Learning
+
+- Data Structures and Algorithms  
+- Java Backend Concepts  
+- Full Stack Web Development    
+- Communication & English Fluency
+---
 ## 📊 GitHub Summary
 
 <p align="center">
@@ -40,9 +65,8 @@ I believe in consistency, self-growth, and turning challenges into opportunities
 ## 🔥 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pragya145&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180em"/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pragya145&theme=tokyonight&hide_border=true" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Pragya145&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="180em"/>
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pragya145&theme=tokyonight&hide_border=true" height="180em"/>
 </p>
 
 ---
@@ -58,38 +82,6 @@ I believe in consistency, self-growth, and turning challenges into opportunities
 </p>
 
 ---
-
-## 🚀 Tech Stack
-
-### 💻 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,javascript,html,css" />
-</p>
-
-### 🌐 Web Development
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,bootstrap,tailwind" />
-</p>
-
-### 🛢️ Database
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-</p>
-
-### 🛠 Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
-</p>
-
----
-
-## 🌱 Currently Learning
-
-- Data Structures and Algorithms  
-- Advanced Java Concepts  
-- Full Stack Web Development  
-- GitHub Profile Optimization  
-- Communication & English Fluency
 
 ---
 
