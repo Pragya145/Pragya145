@@ -1,6 +1,7 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=35&duration=3000&pause=1000&color=4F46E5&center=true&vCenter=true&width=850&lines=👋+Hey,+I'm+Pragya+Dwivedi;💻+B.Tech+CSE+Student;🚀+Aspiring+Software+Developer;🌸+Passionate+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=4000&pause=1000&center=true&vCenter=true&multiline=true&width=800&height=80&lines=+Hey+👋,+I'm+Pragya+Dwivedi+🌈;B.Tech+CSE+|+Developer+|+AI+Enthusiast" />
 </h1>
+
 
 <p align="center">
   <a href="https://github.com/Pragya145">
@@ -89,7 +90,7 @@ I am a highly motivated B.Tech Computer Science Engineering student with a stron
 ## 📫 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID" target="_blank">
+  <a href="https://www.linkedin.com/in/pragya-dwivedi-407932340/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   
