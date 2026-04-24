@@ -1,6 +1,14 @@
-<h1 align="center">
+<h1 align="center">Hi 👋, I'm Pragya Dwivedi</h1>
+<h3 align="center">B.Tech CSE Student | Aspiring Software Developer | AI & Web Development Enthusiast</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&lines=Computer+Science+Student;Full+Stack+Developer;AI+%26+ML+Enthusiast;Always+Learning+New+Things" />
+</p>
+
+---
+<!-- <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=4000&pause=1000&center=true&vCenter=true&multiline=true&width=800&height=80&lines=+Hey+👋,+I'm+Pragya+Dwivedi+🌈;B.Tech+CSE+|+Developer+|+AI+Enthusiast" />
-</h1>
+</h1> -->
 
 
 <p align="center">
