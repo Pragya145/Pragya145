@@ -1,117 +1,193 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=38&duration=4000&pause=1000&center=true&vCenter=true&width=900&height=80&color=FF1493&lines=Hi+👋,+I'm+Pragya+Dwivedi" />
+  Hi 👋, I'm Pragya Dwivedi
 </h1>
 
-<h3 align="center">B.Tech CSE Student | Aspiring Software Developer | AI & Web Development Enthusiast</h3>
+<h3 align="center">
+Software Developer • Java • Spring Boot • React • AI & Machine Learning Enthusiast
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=9370DB&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Full+Stack+Developer;AI+%26+ML+Enthusiast;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Software+Developer;Java+%7C+Spring+Boot+%7C+React;Full+Stack+Developer;Always+Learning+Something+New" />
 </p>
 
----
-<!-- <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=4000&pause=1000&center=true&vCenter=true&multiline=true&width=800&height=80&lines=+Hey+👋,+I'm+Pragya+Dwivedi+🌈;B.Tech+CSE+|+Developer+|+AI+Enthusiast" />
-</h1> -->
-
-
 <p align="center">
-  <a href="https://github.com/Pragya145">
-    <img src="https://komarev.com/ghpvc/?username=Pragya145&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=Pragya145&label=Profile+Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-## 👩‍💻 About Me
-I am a highly motivated B.Tech Computer Science Engineering student with a strong foundation in software development, object-oriented programming, data structures, and database management systems. I have a keen interest in building scalable and efficient solutions through Java, web technologies, and problem-solving approaches. Passionate about full-stack development and continuous technical upskilling, I enjoy working on real-world projects that enhance both my analytical and development skills.I aspire to contribute effectively as a software engineer in a growth-oriented organization.
+# 👩‍💻 About Me
+
+🎓 B.Tech Computer Science Engineering Student at **PSIT Kanpur**
+
+💻 Passionate about **Java Backend Development, Full Stack Development, AI and Problem Solving**
+
+🌱 Currently learning
+
+- Spring Boot
+- REST APIs
+- PostgreSQL
+- System Design
+- Data Structures & Algorithms
+
+🎯 Goal
+
+Become a Software Development Engineer and build scalable products that solve real-world problems.
 
 ---
-## 🚀 Tech Stack
 
-### 💻 Languages
+# 🚀 Tech Stack
+
+### Languages
+
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,c,javascript,html,css" />
+<img src="https://skillicons.dev/icons?i=java,python,c,javascript,html,css" />
 </p>
 
-### 🌐 Web Development
+### Frontend
+
 <p>
-  <img src="https://skillicons.dev/icons?i=react,expressjs,nodejs,bootstrap,tailwind" />
+<img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind" />
 </p>
 
-### 🛢️ Database
+### Backend
+
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring" />
 </p>
 
-### 🛠 Tools ,Platforms & Frameworks
+### Database
+
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,Googlecolab," />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" />
 </p>
 
 ---
 
-## 🌱 Currently Learning
+# 📌 Featured Projects
 
-- Data Structures and Algorithms  
-- Java Backend Concepts  
-- Full Stack Web Development    
-- Communication & English Fluency
----
-## 📊 GitHub Summary
+## 🏥 MediSphere
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pragya145&theme=github_dark" />
-</p>
+Hospital Management System
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pragya145&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Pragya145&theme=github_dark&utcOffset=5.5" />
-</p>
+**Tech Stack**
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pragya145&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pragya145&theme=github_dark" />
-</p>
+- React
+- Spring Boot
+- PostgreSQL
+- JWT Authentication
+
+### Features
+
+- Patient Management
+- Doctor Management
+- Appointment Booking
+- Authentication & Authorization
+- Admin Dashboard
 
 ---
 
-## 🔥 GitHub Stats
+## 🤖 AI Mock Interview Platform
+
+AI-powered interview preparation platform using Gemini API.
+
+**Tech Stack**
+
+React • Node.js • AI APIs
+
+---
+
+## 📰 Fake News Detection
+
+Machine Learning project for identifying fake news using NLP techniques.
+
+---
+
+## 🌐 Portfolio Website
+
+Personal portfolio showcasing projects, skills, and achievements.
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pragya145&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="180em"/>
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pragya145&theme=tokyonight&hide_border=true" height="180em"/>
+
+<img height="170em"
+src="https://github-readme-stats.vercel.app/api?username=Pragya145&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
+
+<img height="170em"
+src="https://streak-stats.demolab.com?user=Pragya145&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img height="170em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pragya145&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
+
 </p>
 
 ---
 
-## ⏰ Productivity & Commit Graph
+# 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Pragya145&theme=github_dark&utcOffset=5.5" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pragya145&theme=tokyo-night&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pragya145&theme=tokyo-night&hide_border=true"/>
+
 </p>
 
 ---
 
+# 🏆 Achievements
+
+🏅 Software Developer Trainee at Gemini Solutions
+
+🏅 Google Cloud Arcade Facilitator Program
+
+🏅 Deloitte Australia Data Analytics Job Simulation
+
+🏅 HackIITK Participant
+
 ---
 
-## 📫 Connect With Me
+# 📚 Currently Working On
+
+✔ Spring Boot Backend Development
+
+✔ Advanced Data Structures & Algorithms
+
+✔ REST APIs
+
+✔ System Design Fundamentals
+
+✔ Open Source Contributions
+
+---
+
+# 📫 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/pragya-dwivedi-407932340/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  
-  <a href="mailto:pragyadwivedi2312@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
+
+<a href="https://www.linkedin.com/in/pragya-dwivedi-407932340">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:pragyadwivedi2312@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
 </p>
 
 ---
 
-<p align="center">
-✨ Consistency beats motivation. Keep building. Keep growing. ✨
-</p>
+<h3 align="center">
+⭐ "First, solve the problem. Then, write the code." – John Johnson
+</h3>
