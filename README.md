@@ -2,9 +2,9 @@
   Hi 👋, I'm Pragya Dwivedi
 </h1>
 
-<h3 align="center">
-Software Developer • Java • Spring Boot • React • AI & Machine Learning Enthusiast
-</h3>
+<h2 align="center">
+Software Developer | Java • Spring Boot • React | Building Scalable Web Applications
+</h2>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Software+Developer;Java+%7C+Spring+Boot+%7C+React;Full+Stack+Developer;Always+Learning+Something+New" />
@@ -69,52 +69,106 @@ Become a Software Development Engineer and build scalable products that solve re
 </p>
 
 ---
+# 🚀 Featured Projects
 
-# 📌 Featured Projects
+<table>
+<tr>
 
-## 🏥 MediSphere
+<td width="50%">
 
-Hospital Management System
+### 🏥 MediSphere
 
-**Tech Stack**
-
-- React
-- Spring Boot
-- PostgreSQL
-- JWT Authentication
-
-### Features
-
-- Patient Management
-- Doctor Management
-- Appointment Booking
-- Authentication & Authorization
-- Admin Dashboard
-
----
-
-## 🤖 AI Mock Interview Platform
-
-AI-powered interview preparation platform using Gemini API.
+Full Stack Hospital Management System
 
 **Tech Stack**
 
-React • Node.js • AI APIs
+`React` `Spring Boot` `PostgreSQL` `JWT`
 
----
+✔ Secure Authentication
 
-## 📰 Fake News Detection
+✔ Appointment Management
 
-Machine Learning project for identifying fake news using NLP techniques.
+✔ Doctor & Patient Dashboards
 
----
+✔ Admin Control Panel
 
-## 🌐 Portfolio Website
+🔗 **Repository:** *Add your GitHub link here*
 
-Personal portfolio showcasing projects, skills, and achievements.
+</td>
 
----
+<td width="50%">
 
+### 🤖 AI Mock Interview
+
+AI-powered interview preparation platform.
+
+**Tech Stack**
+
+`React` `Node.js` `Gemini API`
+
+✔ AI Interview Questions
+
+✔ Instant Feedback
+
+✔ Performance Analysis
+
+✔ User Friendly UI
+
+🔗 **Repository:** *Add Link*
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 📰 Fake News Detection
+
+Machine Learning based news classifier.
+
+**Tech Stack**
+
+`Python` `Scikit-Learn`
+
+✔ NLP Processing
+
+✔ News Classification
+
+✔ ML Model Training
+
+✔ Accuracy Evaluation
+
+🔗 **Repository:** *Add Link*
+
+</td>
+
+<td width="50%">
+
+### 🌐 Portfolio Website
+
+Personal portfolio showcasing skills and projects.
+
+**Tech Stack**
+
+`React` `JavaScript`
+
+✔ Responsive Design
+
+✔ Modern UI
+
+✔ Project Showcase
+
+✔ Contact Section
+
+🔗 **Repository:** *Add Link*
+
+</td>
+
+</tr>
+
+</table>
 # 📊 GitHub Stats
 
 <p align="center">
