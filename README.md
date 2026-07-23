@@ -84,25 +84,9 @@ Full Stack Hospital Management System
 
 `React` `Spring Boot` `PostgreSQL` `JWT`
 
-✔ Secure Authentication
-
-✔ Appointment Management
-
-✔ Doctor & Patient Dashboards
-
-✔ Admin Control Panel
-
 🔗 **Repository:** 
 
 </td>
-
-<td width="50%">
-
-</td>
-
-</tr>
-
-<tr>
 
 <td width="50%">
 
@@ -113,14 +97,6 @@ Machine Learning based news classifier.
 **Tech Stack**
 
 `Python` `Scikit-Learn`
-
-✔ NLP Processing
-
-✔ News Classification
-
-✔ ML Model Training
-
-✔ Accuracy Evaluation
 
 🔗 **Repository:** 
 
@@ -135,14 +111,6 @@ Personal portfolio showcasing skills and projects.
 **Tech Stack**
 
 `React` `JavaScript`
-
-✔ Responsive Design
-
-✔ Modern UI
-
-✔ Project Showcase
-
-✔ Contact Section
 
 🔗 **Repository:** 
 
