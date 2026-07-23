@@ -103,6 +103,13 @@ Machine Learning based news classifier.
 </td>
 
 <td width="50%">
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
 
 ### 🌐 Portfolio Website
 
