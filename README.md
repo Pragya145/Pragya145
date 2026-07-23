@@ -92,29 +92,11 @@ Full Stack Hospital Management System
 
 ✔ Admin Control Panel
 
-🔗 **Repository:** *Add your GitHub link here*
+🔗 **Repository:** 
 
 </td>
 
 <td width="50%">
-
-### 🤖 AI Mock Interview
-
-AI-powered interview preparation platform.
-
-**Tech Stack**
-
-`React` `Node.js` `Gemini API`
-
-✔ AI Interview Questions
-
-✔ Instant Feedback
-
-✔ Performance Analysis
-
-✔ User Friendly UI
-
-🔗 **Repository:** *Add Link*
 
 </td>
 
@@ -140,7 +122,7 @@ Machine Learning based news classifier.
 
 ✔ Accuracy Evaluation
 
-🔗 **Repository:** *Add Link*
+🔗 **Repository:** 
 
 </td>
 
@@ -162,7 +144,7 @@ Personal portfolio showcasing skills and projects.
 
 ✔ Contact Section
 
-🔗 **Repository:** *Add Link*
+🔗 **Repository:** 
 
 </td>
 
@@ -199,18 +181,16 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pragya145&la
 </p>
 
 ---
+## 🏆 Achievements & Experience
 
-# 🏆 Achievements
+🏅 **Infosys Springboard Virtual Internship 7.0**  
+Currently working as an intern on a project, gaining hands-on experience in software development and industry-oriented practices.
 
-🏅 Software Developer Trainee at Gemini Solutions
+☁️ **Google Cloud Arcade Facilitator Program — Diamond League**  
+Achieved **72 points** by completing Google Cloud skill badges and hands-on cloud challenges.
 
-🏅 Google Cloud Arcade Facilitator Program
-
-🏅 Deloitte Australia Data Analytics Job Simulation
-
-🏅 HackIITK Participant
-
----
+🚀 **HackIITK 2k24–2k25 Participant**  
+Participated in a competitive hackathon and collaborated on technology-driven solutions.
 
 # 📚 Currently Working On
 
@@ -243,5 +223,5 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pragya145&la
 ---
 
 <h3 align="center">
-⭐ "First, solve the problem. Then, write the code." – John Johnson
+⭐ "First, solve the problem. Then, write the code." 
 </h3>
